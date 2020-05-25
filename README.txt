@@ -1,4 +1,4 @@
-- This project was done by BHISMA ADHIKARI and NICK DEGENNARO 
+- This project was done by BHISMA ADHIKARI and NICK DEGENNARO (Miami University, Ohio, USA) 
   as an assignment work for the course CSE 621 (Model Driven Engineering)
 
 
